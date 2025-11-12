@@ -1,0 +1,8 @@
+streamlit
+nselib
+pandas
+numpy
+pandas_market_calendars
+python-dateutil
+tzdata
+plotly
